@@ -1,0 +1,36 @@
+.gray1{
+    width: 1050px;
+    height: 200px;
+    
+    padding: 20px;  
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.by-name{
+    background-color: rgb(211,211,211);
+}
+
+.border-solide{
+border-style: solid;
+
+}
+.gray2{
+    width: 1150px;
+    
+    background-color: rgb(211,211,211);
+    
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.t-white{
+    color: aliceblue;
+}
+.margin-logo{
+    margin-right:px;
+}
+.marginOrga{
+    margin-left: 150px;
+}
+.backnav{
+    background-color: rgb(96, 96, 97);
+}

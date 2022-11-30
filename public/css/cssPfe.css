@@ -1,0 +1,81 @@
+.div-recherche{
+    background-color: rgb(47, 68, 88);
+    padding: 10px;
+    color: aliceblue;
+    
+}
+.bt-color{
+    background-color :#1ab394;
+    color: aliceblue;
+}
+.compte-back
+{
+    background-color:rgba(43, 63, 82, 0.9);; padding:20px;
+}
+.color-form-compte{
+    color:rgb(223, 221, 221);
+    font-family:  "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.margin-form1
+{
+    margin-left:2cm
+}
+
+.margin-form2
+{
+    margin-left:4cm
+}
+.margin-form3
+{
+    margin-left:2cm
+}
+.margin-form4
+{
+    margin-left:120px
+}
+.margin-form5
+{
+    margin-left:220px
+}
+.margin-form6
+{
+    margin-left:370px
+}
+.margin-form7
+{
+    margin-left:200px
+}
+
+.margin-form8
+{
+    margin-left:170px
+}
+
+input[type="checkbox"]{
+    width:  18px; /*Desired width*/
+    height: 18px; /*Desired height*/
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .button-waring
+  {
+      background-color: #f8ac59;
+      color : white;
+  }
+
+
+
